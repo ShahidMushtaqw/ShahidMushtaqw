@@ -1,7 +1,7 @@
 <h1 align='center'>✨ Hi, I'm Shahid Mushtaq ✨</h1>
 <p align='center'></p>
 <p align='center'>
-  <a href='www.linkedin.com/in/shahid-mushtaq-w'><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  <a href='https://www.linkedin.com/in/shahid-mushtaq-w'><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   &nbsp;&nbsp;&nbsp;
   <a href='mailto:shahid.mushtaq.w@gmail.com'><img src='https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   &nbsp;&nbsp;&nbsp;
