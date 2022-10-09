@@ -51,7 +51,7 @@
 <p align='center'>
   <a href='#'><img src='https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white'/></a>
-  <a href='#'><img src='https://img.shields.io/badge/macOS-%23E95420?style=for-the-badge&logo=macOS&logoColor=black'/></a>
+  <a href='#'><img src='https://img.shields.io/badge/macOS-%23000000?style=for-the-badge&logo=Apple&logoColor=white'/></a>
 
 </p>
 
