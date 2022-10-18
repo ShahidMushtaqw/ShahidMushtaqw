@@ -37,7 +37,7 @@
 
 <hr>
 
-<h3 align='center'>Text Editors/IDEs I Use</h3>
+<h3 align='center'>Text Editors/IDEs</h3>
 <p align='center'>
   <a href='#'><img src='https://img.shields.io/badge/Terminal-%234D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/VS Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white'/></a>
@@ -47,7 +47,7 @@
 
 <hr>
 
-<h3 align='center'>Operating Systems I Use</h3>
+<h3 align='center'>Operating Systems</h3>
 <p align='center'>
   <a href='#'><img src='https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white'/></a>
   <a href='#'><img src='https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white'/></a>
